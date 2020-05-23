@@ -1,3 +1,4 @@
 # Coronavirus-Web-Scraper
 
-A python voice assistant that you can ask corona-virus related questions 
+Web scraping daily coronavirus stats using Python and BeautifulSoup
+Data from https://www.worldometers.info/coronavirus/#countries
